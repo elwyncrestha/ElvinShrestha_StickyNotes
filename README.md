@@ -5,3 +5,5 @@ Developed using:
 1. Visual Studio 2015 
 2. Microsoft .NET Framework Version 4.7.03056
 3. SQL Server 2014 Management Studio (Database)
+
+Also, it was part of my Level 4 Diploma in Computing project.
