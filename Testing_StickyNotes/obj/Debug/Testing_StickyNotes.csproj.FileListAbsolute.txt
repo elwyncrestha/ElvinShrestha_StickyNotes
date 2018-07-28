@@ -1,0 +1,14 @@
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\Testing_StickyNotes.dll
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\Testing_StickyNotes.pdb
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\ElvinShrestha_StickyNotes.exe
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\ElvinShrestha_StickyNotes.pdb
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.csprojResolveAssemblyReference.cache
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.dll
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.pdb
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\Testing_StickyNotes.dll
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\Testing_StickyNotes.pdb
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\ElvinShrestha_StickyNotes.exe
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\bin\Debug\ElvinShrestha_StickyNotes.pdb
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.csprojResolveAssemblyReference.cache
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.dll
+C:\Users\elwyn\Google Drive\Custom Sync\#elvin\Softwarica\00174361_ElvinShrestha_DDOOCP\CSharp\ElvinShrestha_StickyNotes\Testing_StickyNotes\obj\Debug\Testing_StickyNotes.pdb
